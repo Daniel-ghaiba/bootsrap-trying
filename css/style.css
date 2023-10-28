@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.seccont{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    overflow: auto;
+}
+.pic1 img{
+    /* width: 21.25%; */
+    width: 100%;
+}
+.pic1{
+    width: 21.25%;
+}
